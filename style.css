@@ -1,0 +1,29 @@
+.container{
+    padding: 100px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, gray 0%, black 100%);
+    color: whitesmoke;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.text{
+    color: lightslategray;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card-img-top{
+    padding: 30px;
+}
+.card-title{
+    font-weight: 700;
+}
